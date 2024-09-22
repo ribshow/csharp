@@ -1,0 +1,15 @@
+C:\Users\0201392321003\Desktop\tec_prog2\aula_1908\classes\createClass\obj\Debug\net6.0\createClass.csproj.AssemblyReference.cache
+C:\Users\0201392321003\Desktop\tec_prog2\aula_1908\classes\createClass\obj\Debug\net6.0\createClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392321003\Desktop\tec_prog2\aula_1908\classes\createClass\obj\Debug\net6.0\createClass.AssemblyInfoInputs.cache
+C:\Users\0201392321003\Desktop\tec_prog2\aula_1908\classes\createClass\obj\Debug\net6.0\createClass.AssemblyInfo.cs
+C:\Users\0201392321003\Desktop\tec_prog2\aula_1908\classes\createClass\obj\Debug\net6.0\createClass.csproj.CoreCompileInputs.cache
+C:\Users\0201392321003\Desktop\tec_prog2\aula_1908\classes\createClass\bin\Debug\net6.0\createClass.exe
+C:\Users\0201392321003\Desktop\tec_prog2\aula_1908\classes\createClass\bin\Debug\net6.0\createClass.deps.json
+C:\Users\0201392321003\Desktop\tec_prog2\aula_1908\classes\createClass\bin\Debug\net6.0\createClass.runtimeconfig.json
+C:\Users\0201392321003\Desktop\tec_prog2\aula_1908\classes\createClass\bin\Debug\net6.0\createClass.dll
+C:\Users\0201392321003\Desktop\tec_prog2\aula_1908\classes\createClass\bin\Debug\net6.0\createClass.pdb
+C:\Users\0201392321003\Desktop\tec_prog2\aula_1908\classes\createClass\obj\Debug\net6.0\createClass.dll
+C:\Users\0201392321003\Desktop\tec_prog2\aula_1908\classes\createClass\obj\Debug\net6.0\refint\createClass.dll
+C:\Users\0201392321003\Desktop\tec_prog2\aula_1908\classes\createClass\obj\Debug\net6.0\createClass.pdb
+C:\Users\0201392321003\Desktop\tec_prog2\aula_1908\classes\createClass\obj\Debug\net6.0\createClass.genruntimeconfig.cache
+C:\Users\0201392321003\Desktop\tec_prog2\aula_1908\classes\createClass\obj\Debug\net6.0\ref\createClass.dll

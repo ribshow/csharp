@@ -1,0 +1,14 @@
+C:\Users\0201392321003\Desktop\tec_prog2\aula_2608\encapsulamento\encapsulamento\bin\Debug\net6.0\encapsulamento.exe
+C:\Users\0201392321003\Desktop\tec_prog2\aula_2608\encapsulamento\encapsulamento\bin\Debug\net6.0\encapsulamento.deps.json
+C:\Users\0201392321003\Desktop\tec_prog2\aula_2608\encapsulamento\encapsulamento\bin\Debug\net6.0\encapsulamento.runtimeconfig.json
+C:\Users\0201392321003\Desktop\tec_prog2\aula_2608\encapsulamento\encapsulamento\bin\Debug\net6.0\encapsulamento.dll
+C:\Users\0201392321003\Desktop\tec_prog2\aula_2608\encapsulamento\encapsulamento\bin\Debug\net6.0\encapsulamento.pdb
+C:\Users\0201392321003\Desktop\tec_prog2\aula_2608\encapsulamento\encapsulamento\obj\Debug\net6.0\encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392321003\Desktop\tec_prog2\aula_2608\encapsulamento\encapsulamento\obj\Debug\net6.0\encapsulamento.AssemblyInfoInputs.cache
+C:\Users\0201392321003\Desktop\tec_prog2\aula_2608\encapsulamento\encapsulamento\obj\Debug\net6.0\encapsulamento.AssemblyInfo.cs
+C:\Users\0201392321003\Desktop\tec_prog2\aula_2608\encapsulamento\encapsulamento\obj\Debug\net6.0\encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\0201392321003\Desktop\tec_prog2\aula_2608\encapsulamento\encapsulamento\obj\Debug\net6.0\encapsulamento.dll
+C:\Users\0201392321003\Desktop\tec_prog2\aula_2608\encapsulamento\encapsulamento\obj\Debug\net6.0\refint\encapsulamento.dll
+C:\Users\0201392321003\Desktop\tec_prog2\aula_2608\encapsulamento\encapsulamento\obj\Debug\net6.0\encapsulamento.pdb
+C:\Users\0201392321003\Desktop\tec_prog2\aula_2608\encapsulamento\encapsulamento\obj\Debug\net6.0\encapsulamento.genruntimeconfig.cache
+C:\Users\0201392321003\Desktop\tec_prog2\aula_2608\encapsulamento\encapsulamento\obj\Debug\net6.0\ref\encapsulamento.dll

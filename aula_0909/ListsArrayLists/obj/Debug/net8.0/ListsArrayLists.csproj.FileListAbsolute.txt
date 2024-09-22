@@ -1,0 +1,14 @@
+C:\Users\0201392321003\Desktop\tec_prog2\aula_0909\ListsArrayLists\bin\Debug\net8.0\ListsArrayLists.exe
+C:\Users\0201392321003\Desktop\tec_prog2\aula_0909\ListsArrayLists\bin\Debug\net8.0\ListsArrayLists.deps.json
+C:\Users\0201392321003\Desktop\tec_prog2\aula_0909\ListsArrayLists\bin\Debug\net8.0\ListsArrayLists.runtimeconfig.json
+C:\Users\0201392321003\Desktop\tec_prog2\aula_0909\ListsArrayLists\bin\Debug\net8.0\ListsArrayLists.dll
+C:\Users\0201392321003\Desktop\tec_prog2\aula_0909\ListsArrayLists\bin\Debug\net8.0\ListsArrayLists.pdb
+C:\Users\0201392321003\Desktop\tec_prog2\aula_0909\ListsArrayLists\obj\Debug\net8.0\ListsArrayLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392321003\Desktop\tec_prog2\aula_0909\ListsArrayLists\obj\Debug\net8.0\ListsArrayLists.AssemblyInfoInputs.cache
+C:\Users\0201392321003\Desktop\tec_prog2\aula_0909\ListsArrayLists\obj\Debug\net8.0\ListsArrayLists.AssemblyInfo.cs
+C:\Users\0201392321003\Desktop\tec_prog2\aula_0909\ListsArrayLists\obj\Debug\net8.0\ListsArrayLists.csproj.CoreCompileInputs.cache
+C:\Users\0201392321003\Desktop\tec_prog2\aula_0909\ListsArrayLists\obj\Debug\net8.0\ListsArrayLists.dll
+C:\Users\0201392321003\Desktop\tec_prog2\aula_0909\ListsArrayLists\obj\Debug\net8.0\refint\ListsArrayLists.dll
+C:\Users\0201392321003\Desktop\tec_prog2\aula_0909\ListsArrayLists\obj\Debug\net8.0\ListsArrayLists.pdb
+C:\Users\0201392321003\Desktop\tec_prog2\aula_0909\ListsArrayLists\obj\Debug\net8.0\ListsArrayLists.genruntimeconfig.cache
+C:\Users\0201392321003\Desktop\tec_prog2\aula_0909\ListsArrayLists\obj\Debug\net8.0\ref\ListsArrayLists.dll

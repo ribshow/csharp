@@ -1,0 +1,14 @@
+C:\Users\0201392321003\Desktop\tec_prog2\aula_0909\arrays_dimensional\bin\Debug\net8.0\arrays_dimensional.exe
+C:\Users\0201392321003\Desktop\tec_prog2\aula_0909\arrays_dimensional\bin\Debug\net8.0\arrays_dimensional.deps.json
+C:\Users\0201392321003\Desktop\tec_prog2\aula_0909\arrays_dimensional\bin\Debug\net8.0\arrays_dimensional.runtimeconfig.json
+C:\Users\0201392321003\Desktop\tec_prog2\aula_0909\arrays_dimensional\bin\Debug\net8.0\arrays_dimensional.dll
+C:\Users\0201392321003\Desktop\tec_prog2\aula_0909\arrays_dimensional\bin\Debug\net8.0\arrays_dimensional.pdb
+C:\Users\0201392321003\Desktop\tec_prog2\aula_0909\arrays_dimensional\obj\Debug\net8.0\arrays_dimensional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392321003\Desktop\tec_prog2\aula_0909\arrays_dimensional\obj\Debug\net8.0\arrays_dimensional.AssemblyInfoInputs.cache
+C:\Users\0201392321003\Desktop\tec_prog2\aula_0909\arrays_dimensional\obj\Debug\net8.0\arrays_dimensional.AssemblyInfo.cs
+C:\Users\0201392321003\Desktop\tec_prog2\aula_0909\arrays_dimensional\obj\Debug\net8.0\arrays_dimensional.csproj.CoreCompileInputs.cache
+C:\Users\0201392321003\Desktop\tec_prog2\aula_0909\arrays_dimensional\obj\Debug\net8.0\arrays_dimensional.dll
+C:\Users\0201392321003\Desktop\tec_prog2\aula_0909\arrays_dimensional\obj\Debug\net8.0\refint\arrays_dimensional.dll
+C:\Users\0201392321003\Desktop\tec_prog2\aula_0909\arrays_dimensional\obj\Debug\net8.0\arrays_dimensional.pdb
+C:\Users\0201392321003\Desktop\tec_prog2\aula_0909\arrays_dimensional\obj\Debug\net8.0\arrays_dimensional.genruntimeconfig.cache
+C:\Users\0201392321003\Desktop\tec_prog2\aula_0909\arrays_dimensional\obj\Debug\net8.0\ref\arrays_dimensional.dll

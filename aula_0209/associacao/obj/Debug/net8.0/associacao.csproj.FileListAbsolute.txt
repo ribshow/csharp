@@ -1,0 +1,14 @@
+C:\Users\0201392321003\Desktop\tec_prog2\aula_0209\associacao\obj\Debug\net8.0\associacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392321003\Desktop\tec_prog2\aula_0209\associacao\obj\Debug\net8.0\associacao.AssemblyInfoInputs.cache
+C:\Users\0201392321003\Desktop\tec_prog2\aula_0209\associacao\obj\Debug\net8.0\associacao.AssemblyInfo.cs
+C:\Users\0201392321003\Desktop\tec_prog2\aula_0209\associacao\obj\Debug\net8.0\associacao.csproj.CoreCompileInputs.cache
+C:\Users\0201392321003\Desktop\tec_prog2\aula_0209\associacao\bin\Debug\net8.0\associacao.exe
+C:\Users\0201392321003\Desktop\tec_prog2\aula_0209\associacao\bin\Debug\net8.0\associacao.deps.json
+C:\Users\0201392321003\Desktop\tec_prog2\aula_0209\associacao\bin\Debug\net8.0\associacao.runtimeconfig.json
+C:\Users\0201392321003\Desktop\tec_prog2\aula_0209\associacao\bin\Debug\net8.0\associacao.dll
+C:\Users\0201392321003\Desktop\tec_prog2\aula_0209\associacao\bin\Debug\net8.0\associacao.pdb
+C:\Users\0201392321003\Desktop\tec_prog2\aula_0209\associacao\obj\Debug\net8.0\associacao.dll
+C:\Users\0201392321003\Desktop\tec_prog2\aula_0209\associacao\obj\Debug\net8.0\refint\associacao.dll
+C:\Users\0201392321003\Desktop\tec_prog2\aula_0209\associacao\obj\Debug\net8.0\associacao.pdb
+C:\Users\0201392321003\Desktop\tec_prog2\aula_0209\associacao\obj\Debug\net8.0\associacao.genruntimeconfig.cache
+C:\Users\0201392321003\Desktop\tec_prog2\aula_0209\associacao\obj\Debug\net8.0\ref\associacao.dll
