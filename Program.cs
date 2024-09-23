@@ -1,15 +1,13 @@
-﻿using excecaoPersonalizada;
+﻿using excecoesThrow;
 
 try
 {
-    throw new CustomException("Minha exceção personalizada!");
+    A.RenderA();
 }
-catch(CustomException e)
+catch
 {
-    Console.WriteLine(e.Message);
-    Console.WriteLine(e.StackTrace);
+    Console.WriteLine("Tratamento da exceção está na Main");
 }
-finally
-{
-    Console.WriteLine("Fim");
-}
+
+
+Console.ReadKey();
