@@ -1,13 +1,14 @@
-﻿using excecoesThrow;
+﻿using exercicio;
 
+Account account = new(1234567, "José Ailton", 500.50m);
+int value = 600;
 try
 {
-    A.RenderA();
+    account.Retire(account, value);
+    throw new OperatorException();
 }
-catch
+catch(OperatorException e)
 {
-    Console.WriteLine("Tratamento da exceção está na Main");
+    Console.WriteLine(e.Message);
 }
 
-
-Console.ReadKey();
