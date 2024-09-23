@@ -1,30 +1,38 @@
-﻿Console.WriteLine("Tratamento de exceções!");
-
-try
+﻿try
 {
-    Console.WriteLine("Digite o dividendo");
-    int dividend = Convert.ToInt32(Console.ReadLine());
+    Console.WriteLine("Digite da URL da página: ");
+    string? url = Console.ReadLine();
+    // criando uma requisição 
+    HttpClient client = new();
+    // caputrando a requisição e recebendo o resultado
+    HttpResponseMessage response = client.GetAsync(url).Result;
 
-    Console.WriteLine("Digite o divisor");
-    int divisor = Convert.ToInt32(Console.ReadLine());
-
-    int result = dividend / divisor;
-
-    Console.WriteLine($"Resultado: {result}");
-}catch(DivideByZeroException e)
+    // Em caso de sucesso
+    if(response.IsSuccessStatusCode)
+    {
+        Console.WriteLine("Acesso bem sucedido");
+        // retorna uma string
+        Console.WriteLine("Código Status" + response.StatusCode);
+    }
+    else
+    {
+        // retorna o código do erro
+        throw new HttpRequestException("Erro:" + (int)response.StatusCode);
+    }
+}// filtrando código erro 404
+catch(HttpRequestException e) when (e.Message.Contains("404"))
 {
-    Console.WriteLine($"O divisor não pode ser 0\nError:{e.Message}");
-}catch(FormatException e)
+    Console.WriteLine("Página não encontrada " + e.Message);
+}// filtrando código erro 400
+catch(HttpRequestException e) when (e.Message.Contains("400"))
 {
-    Console.WriteLine($"O dividendo e o divisor devem ser números inteiros\nError:{e.Message}");
-}catch(OverflowException e)
-{
-    Console.WriteLine($"Digite números inteiros entre 1 e 2 bilhões\nError:{e.Message}");
-}catch(Exception e)
+    Console.WriteLine("Requisição inválida " + e.Message);
+}// capturando outros erros genéricos
+catch(Exception e)
 {
     Console.WriteLine(e.Message);
 }
 finally
 {
-    Console.WriteLine("Processamento finalizado!");
+    Console.WriteLine("Fim");
 }
