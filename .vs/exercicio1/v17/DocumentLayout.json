@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gamer\\Desktop\\3_semestre\\Tecnicas de Programa\u00E7\u00E3o II\\tec_prog2\\aula_0710\\exercicio1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B079828-406D-4C87-9384-BF6EA80885AD}|exercicio1.csproj|c:\\users\\gamer\\desktop\\3_semestre\\tecnicas de programa\u00E7\u00E3o ii\\tec_prog2\\aula_0710\\exercicio1\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B079828-406D-4C87-9384-BF6EA80885AD}|exercicio1.csproj|solutionrelative:author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B079828-406D-4C87-9384-BF6EA80885AD}|exercicio1.csproj|c:\\users\\gamer\\desktop\\3_semestre\\tecnicas de programa\u00E7\u00E3o ii\\tec_prog2\\aula_0710\\exercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B079828-406D-4C87-9384-BF6EA80885AD}|exercicio1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B079828-406D-4C87-9384-BF6EA80885AD}|exercicio1.csproj|c:\\users\\gamer\\desktop\\3_semestre\\tecnicas de programa\u00E7\u00E3o ii\\tec_prog2\\aula_0710\\exercicio1\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B079828-406D-4C87-9384-BF6EA80885AD}|exercicio1.csproj|solutionrelative:loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B079828-406D-4C87-9384-BF6EA80885AD}|exercicio1.csproj|c:\\users\\gamer\\desktop\\3_semestre\\tecnicas de programa\u00E7\u00E3o ii\\tec_prog2\\aula_0710\\exercicio1\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B079828-406D-4C87-9384-BF6EA80885AD}|exercicio1.csproj|solutionrelative:publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B079828-406D-4C87-9384-BF6EA80885AD}|exercicio1.csproj|c:\\users\\gamer\\desktop\\3_semestre\\tecnicas de programa\u00E7\u00E3o ii\\tec_prog2\\aula_0710\\exercicio1\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B079828-406D-4C87-9384-BF6EA80885AD}|exercicio1.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B079828-406D-4C87-9384-BF6EA80885AD}|exercicio1.csproj|c:\\users\\gamer\\desktop\\3_semestre\\tecnicas de programa\u00E7\u00E3o ii\\tec_prog2\\aula_0710\\exercicio1\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B079828-406D-4C87-9384-BF6EA80885AD}|exercicio1.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B079828-406D-4C87-9384-BF6EA80885AD}|exercicio1.csproj|c:\\users\\gamer\\desktop\\3_semestre\\tecnicas de programa\u00E7\u00E3o ii\\tec_prog2\\aula_0710\\exercicio1\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{5B079828-406D-4C87-9384-BF6EA80885AD}|exercicio1.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B079828-406D-4C87-9384-BF6EA80885AD}|exercicio1.csproj|c:\\users\\gamer\\desktop\\3_semestre\\tecnicas de programa\u00E7\u00E3o ii\\tec_prog2\\aula_0710\\exercicio1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B079828-406D-4C87-9384-BF6EA80885AD}|exercicio1.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B079828-406D-4C87-9384-BF6EA80885AD}|exercicio1.csproj|c:\\users\\gamer\\desktop\\3_semestre\\tecnicas de programa\u00E7\u00E3o ii\\tec_prog2\\aula_0710\\exercicio1\\publication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B079828-406D-4C87-9384-BF6EA80885AD}|exercicio1.csproj|solutionrelative:publication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B079828-406D-4C87-9384-BF6EA80885AD}|exercicio1.csproj|c:\\users\\gamer\\desktop\\3_semestre\\tecnicas de programa\u00E7\u00E3o ii\\tec_prog2\\aula_0710\\exercicio1\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B079828-406D-4C87-9384-BF6EA80885AD}|exercicio1.csproj|solutionrelative:magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Gamer\\Desktop\\3_semestre\\Tecnicas de Programa\u00E7\u00E3o II\\tec_prog2\\aula_0710\\exercicio1\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\Gamer\\Desktop\\3_semestre\\Tecnicas de Programa\u00E7\u00E3o II\\tec_prog2\\aula_0710\\exercicio1\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T21:19:17.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "C:\\Users\\Gamer\\Desktop\\3_semestre\\Tecnicas de Programa\u00E7\u00E3o II\\tec_prog2\\aula_0710\\exercicio1\\Publisher.cs",
+              "RelativeDocumentMoniker": "Publisher.cs",
+              "ToolTip": "C:\\Users\\Gamer\\Desktop\\3_semestre\\Tecnicas de Programa\u00E7\u00E3o II\\tec_prog2\\aula_0710\\exercicio1\\Publisher.cs",
+              "RelativeToolTip": "Publisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T21:17:13.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Publication.cs",
+              "DocumentMoniker": "C:\\Users\\Gamer\\Desktop\\3_semestre\\Tecnicas de Programa\u00E7\u00E3o II\\tec_prog2\\aula_0710\\exercicio1\\Publication.cs",
+              "RelativeDocumentMoniker": "Publication.cs",
+              "ToolTip": "C:\\Users\\Gamer\\Desktop\\3_semestre\\Tecnicas de Programa\u00E7\u00E3o II\\tec_prog2\\aula_0710\\exercicio1\\Publication.cs",
+              "RelativeToolTip": "Publication.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T21:16:17.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Magazine.cs",
+              "DocumentMoniker": "C:\\Users\\Gamer\\Desktop\\3_semestre\\Tecnicas de Programa\u00E7\u00E3o II\\tec_prog2\\aula_0710\\exercicio1\\Magazine.cs",
+              "RelativeDocumentMoniker": "Magazine.cs",
+              "ToolTip": "C:\\Users\\Gamer\\Desktop\\3_semestre\\Tecnicas de Programa\u00E7\u00E3o II\\tec_prog2\\aula_0710\\exercicio1\\Magazine.cs",
+              "RelativeToolTip": "Magazine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T21:14:52.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "C:\\Users\\Gamer\\Desktop\\3_semestre\\Tecnicas de Programa\u00E7\u00E3o II\\tec_prog2\\aula_0710\\exercicio1\\Loan.cs",
+              "RelativeDocumentMoniker": "Loan.cs",
+              "ToolTip": "C:\\Users\\Gamer\\Desktop\\3_semestre\\Tecnicas de Programa\u00E7\u00E3o II\\tec_prog2\\aula_0710\\exercicio1\\Loan.cs",
+              "RelativeToolTip": "Loan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T21:10:42.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Gamer\\Desktop\\3_semestre\\Tecnicas de Programa\u00E7\u00E3o II\\tec_prog2\\aula_0710\\exercicio1\\Item.cs",
+              "RelativeDocumentMoniker": "Item.cs",
+              "ToolTip": "C:\\Users\\Gamer\\Desktop\\3_semestre\\Tecnicas de Programa\u00E7\u00E3o II\\tec_prog2\\aula_0710\\exercicio1\\Item.cs",
+              "RelativeToolTip": "Item.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T21:08:27.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Gamer\\Desktop\\3_semestre\\Tecnicas de Programa\u00E7\u00E3o II\\tec_prog2\\aula_0710\\exercicio1\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "C:\\Users\\Gamer\\Desktop\\3_semestre\\Tecnicas de Programa\u00E7\u00E3o II\\tec_prog2\\aula_0710\\exercicio1\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T21:03:35.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\Gamer\\Desktop\\3_semestre\\Tecnicas de Programa\u00E7\u00E3o II\\tec_prog2\\aula_0710\\exercicio1\\Author.cs",
+              "RelativeDocumentMoniker": "Author.cs",
+              "ToolTip": "C:\\Users\\Gamer\\Desktop\\3_semestre\\Tecnicas de Programa\u00E7\u00E3o II\\tec_prog2\\aula_0710\\exercicio1\\Author.cs",
+              "RelativeToolTip": "Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T21:02:24.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Gamer\\Desktop\\3_semestre\\Tecnicas de Programa\u00E7\u00E3o II\\tec_prog2\\aula_0710\\exercicio1\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\Gamer\\Desktop\\3_semestre\\Tecnicas de Programa\u00E7\u00E3o II\\tec_prog2\\aula_0710\\exercicio1\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAADHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-10-07T20:21:41.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gamer\\Desktop\\3_semestre\\Tecnicas de Programa\u00E7\u00E3o II\\tec_prog2\\aula_0710\\exercicio1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Gamer\\Desktop\\3_semestre\\Tecnicas de Programa\u00E7\u00E3o II\\tec_prog2\\aula_0710\\exercicio1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T19:37:46.142Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
