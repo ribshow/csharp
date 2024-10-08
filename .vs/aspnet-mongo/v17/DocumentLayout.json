@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gamer\\Desktop\\3_semestre\\Desenvolvimento web III\\aulas\\aula_2409\\aspnet-mongo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAAF680-93AF-4C28-AE0C-53745EF17E12}|aspnet-mongo.csproj|c:\\users\\gamer\\desktop\\3_semestre\\desenvolvimento web iii\\aulas\\aula_2409\\aspnet-mongo\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAAAF680-93AF-4C28-AE0C-53745EF17E12}|aspnet-mongo.csproj|solutionrelative:views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAAF680-93AF-4C28-AE0C-53745EF17E12}|aspnet-mongo.csproj|c:\\users\\gamer\\desktop\\3_semestre\\desenvolvimento web iii\\aulas\\aula_2409\\aspnet-mongo\\views\\products1\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAAAF680-93AF-4C28-AE0C-53745EF17E12}|aspnet-mongo.csproj|solutionrelative:views\\products1\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAAF680-93AF-4C28-AE0C-53745EF17E12}|aspnet-mongo.csproj|c:\\users\\gamer\\desktop\\3_semestre\\desenvolvimento web iii\\aulas\\aula_2409\\aspnet-mongo\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CAAAF680-93AF-4C28-AE0C-53745EF17E12}|aspnet-mongo.csproj|solutionrelative:wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAAF680-93AF-4C28-AE0C-53745EF17E12}|aspnet-mongo.csproj|c:\\users\\gamer\\desktop\\3_semestre\\desenvolvimento web iii\\aulas\\aula_2409\\aspnet-mongo\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAAAF680-93AF-4C28-AE0C-53745EF17E12}|aspnet-mongo.csproj|solutionrelative:views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAAF680-93AF-4C28-AE0C-53745EF17E12}|aspnet-mongo.csproj|c:\\users\\gamer\\desktop\\3_semestre\\desenvolvimento web iii\\aulas\\aula_2409\\aspnet-mongo\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAAAF680-93AF-4C28-AE0C-53745EF17E12}|aspnet-mongo.csproj|solutionrelative:views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAAF680-93AF-4C28-AE0C-53745EF17E12}|aspnet-mongo.csproj|c:\\users\\gamer\\desktop\\3_semestre\\desenvolvimento web iii\\aulas\\aula_2409\\aspnet-mongo\\views\\products1\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAAAF680-93AF-4C28-AE0C-53745EF17E12}|aspnet-mongo.csproj|solutionrelative:views\\products1\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAAF680-93AF-4C28-AE0C-53745EF17E12}|aspnet-mongo.csproj|c:\\users\\gamer\\desktop\\3_semestre\\desenvolvimento web iii\\aulas\\aula_2409\\aspnet-mongo\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAAAF680-93AF-4C28-AE0C-53745EF17E12}|aspnet-mongo.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAAF680-93AF-4C28-AE0C-53745EF17E12}|aspnet-mongo.csproj|c:\\users\\gamer\\desktop\\3_semestre\\desenvolvimento web iii\\aulas\\aula_2409\\aspnet-mongo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAAAF680-93AF-4C28-AE0C-53745EF17E12}|aspnet-mongo.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAAF680-93AF-4C28-AE0C-53745EF17E12}|aspnet-mongo.csproj|c:\\users\\gamer\\desktop\\3_semestre\\desenvolvimento web iii\\aulas\\aula_2409\\aspnet-mongo\\views\\products1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAAAF680-93AF-4C28-AE0C-53745EF17E12}|aspnet-mongo.csproj|solutionrelative:views\\products1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gamer\\Desktop\\3_semestre\\Desenvolvimento web III\\aulas\\aula_2409\\aspnet-mongo\\Views\\Products1\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products1\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Gamer\\Desktop\\3_semestre\\Desenvolvimento web III\\aulas\\aula_2409\\aspnet-mongo\\Views\\Products1\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Products1\\Delete.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T22:02:13.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gamer\\Desktop\\3_semestre\\Desenvolvimento web III\\aulas\\aula_2409\\aspnet-mongo\\Views\\Users\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Gamer\\Desktop\\3_semestre\\Desenvolvimento web III\\aulas\\aula_2409\\aspnet-mongo\\Views\\Users\\Details.cshtml",
+              "RelativeToolTip": "Views\\Users\\Details.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T21:59:04.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gamer\\Desktop\\3_semestre\\Desenvolvimento web III\\aulas\\aula_2409\\aspnet-mongo\\Views\\Products1\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products1\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Gamer\\Desktop\\3_semestre\\Desenvolvimento web III\\aulas\\aula_2409\\aspnet-mongo\\Views\\Products1\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Products1\\Edit.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T21:57:34.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Gamer\\Desktop\\3_semestre\\Desenvolvimento web III\\aulas\\aula_2409\\aspnet-mongo\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Gamer\\Desktop\\3_semestre\\Desenvolvimento web III\\aulas\\aula_2409\\aspnet-mongo\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAuwIQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T21:51:31.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gamer\\Desktop\\3_semestre\\Desenvolvimento web III\\aulas\\aula_2409\\aspnet-mongo\\Views\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Gamer\\Desktop\\3_semestre\\Desenvolvimento web III\\aulas\\aula_2409\\aspnet-mongo\\Views\\Users\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Users\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T21:43:36.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gamer\\Desktop\\3_semestre\\Desenvolvimento web III\\aulas\\aula_2409\\aspnet-mongo\\Views\\Users\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Gamer\\Desktop\\3_semestre\\Desenvolvimento web III\\aulas\\aula_2409\\aspnet-mongo\\Views\\Users\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Users\\Delete.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T21:40:58.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Gamer\\Desktop\\3_semestre\\Desenvolvimento web III\\aulas\\aula_2409\\aspnet-mongo\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\Gamer\\Desktop\\3_semestre\\Desenvolvimento web III\\aulas\\aula_2409\\aspnet-mongo\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "wwwroot\\css\\style.css",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-08T21:33:12.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gamer\\Desktop\\3_semestre\\Desenvolvimento web III\\aulas\\aula_2409\\aspnet-mongo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Gamer\\Desktop\\3_semestre\\Desenvolvimento web III\\aulas\\aula_2409\\aspnet-mongo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T21:31:37.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gamer\\Desktop\\3_semestre\\Desenvolvimento web III\\aulas\\aula_2409\\aspnet-mongo\\Views\\Products1\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products1\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Gamer\\Desktop\\3_semestre\\Desenvolvimento web III\\aulas\\aula_2409\\aspnet-mongo\\Views\\Products1\\Index.cshtml",
+              "RelativeToolTip": "Views\\Products1\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T21:30:58.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
